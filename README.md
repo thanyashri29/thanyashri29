@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [THANYASHRI S] 👋
+# 👋 Hi, I'm THANYASHRI S👋
 
 </div>
 
